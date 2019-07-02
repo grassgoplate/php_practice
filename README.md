@@ -1,2 +1,2 @@
 # php_practice
-create message board
+create message board etc
